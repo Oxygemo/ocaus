@@ -7,6 +7,7 @@ wget
 mv
 unzip
 ```
+Obviously with your package manager (or gui frontend, but I like the command line. Who doesn't?)
 # How to Install
 do this:
 ```
